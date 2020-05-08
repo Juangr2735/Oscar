@@ -17,6 +17,7 @@ public class Gamershop {
            Producto p1;
            p1 = new Producto();
             p1.MostrarProducto();
+            System.out.println("OSCAR ES GAY");
     }
    
 }
