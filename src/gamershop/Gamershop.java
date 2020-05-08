@@ -17,8 +17,7 @@ public class Gamershop {
            Producto p1;
            p1 = new Producto();
             p1.MostrarProducto();
-          //HOLA AMIGOS DE YUTUB
-          //ME LLAMO JUAN
+          System.out.println("Oscar es gai");
     }
    
 }
