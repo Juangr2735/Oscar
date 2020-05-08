@@ -17,7 +17,7 @@ public class Gamershop {
            Producto p1;
            p1 = new Producto();
             p1.MostrarProducto();
-          System.out.println("JOSE es gai");
+          System.out.println("OSCAR es gai");
     }
    
 }
